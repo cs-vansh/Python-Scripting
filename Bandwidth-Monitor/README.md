@@ -14,4 +14,4 @@ pip install psutil
 
 ## GUI
 
-![image](https://github.com/user-attachments/assets/ce3a602f-7d87-46b5-aedd-ad91b8e779a6)
+![image](https://github.com/user-attachments/assets/3e93c8fb-e26d-4d35-970b-f93860746052)
