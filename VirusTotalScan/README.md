@@ -49,7 +49,3 @@ The `Detection Count` is represented as a list of dictionaries, where each dicti
 - `sha256`: The SHA256 hash associated with the specific scan result.
 
 Each row in the CSV file corresponds to a specific IP address, providing a summary of the detection count and scan date.
-
-A sample CSV file showing results:
-![Screenshot 2023-11-12 213527](https://github.com/cs-vansh/VirusTotalScan/assets/104628209/fc03b942-8754-4048-b1bf-8b1c34e93594)
-
