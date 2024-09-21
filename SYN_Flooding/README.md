@@ -14,9 +14,11 @@ This script demonstrates a simple SYN flood attack using Scapy, a Python library
 
 - __ACK (Acknowledge):__ Finally, the client sends an ACK packet to the server, confirming the receipt of the SYN-ACK packet. This ACK packet also acknowledges the server's allocated resources and the opened port.
 
-![1642843418224_2cDnqtQfqo_threeway](https://github.com/cs-vansh/SYN_Flooding/assets/104628209/28e97729-482c-431f-8abf-69b7231ac440)
+![image](https://github.com/user-attachments/assets/9a8d66d7-d398-4e9c-8705-f49fd6c3cc00)
 
 A __SYN flooding attack__ involves overwhelming a target server with a large number of SYN packets, exploiting the server's resources and potentially causing a __Denial of Service(DOS)__. 
+
+![image](https://github.com/user-attachments/assets/599b4e46-622b-413f-a29f-f0a31cc13ac4)
 
 
 ## Usage
